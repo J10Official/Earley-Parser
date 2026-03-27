@@ -1,0 +1,18 @@
+(S (NP (DT the)
+       (N man))
+   (VP (V shot)
+       (NP (DT the)
+           (N soldier))
+       (PP (P with)
+           (NP (DT a)
+               (N gun)))))
+13.0
+(S (NP (DT the)
+       (N man))
+   (VP (V shot)
+       (NP (DT the)
+           (N soldier)
+           (PP (P with)
+               (NP (DT a)
+                   (N gun))))))
+13.0

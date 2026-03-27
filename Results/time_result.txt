@@ -1,0 +1,12 @@
+(S (NP (N time))
+   (VP (V flies)
+       (ADVP (ADV like)
+             (NP (Det an)
+                 (N arrow)))))
+7.802285552379208
+(S (NP (N time)
+       (N flies))
+   (VP (V like)
+       (NP (Det an)
+           (N arrow))))
+10.024677973715654
